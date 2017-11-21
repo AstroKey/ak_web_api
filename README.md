@@ -1,2 +1,2 @@
-# ak_web_api
+# astrokey_web_api
 AstroKey web backend
